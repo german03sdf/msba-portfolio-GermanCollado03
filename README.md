@@ -1,6 +1,7 @@
-# msba-portfolio-germancollado
+# MSBA Portfolio – Predictive Analytics Case Competition  
+### German Collado  
+Spring 2026
 
-# MSBA Portfolio – Predictive Analytics Case Competition
 
 ## Business Problem
 
