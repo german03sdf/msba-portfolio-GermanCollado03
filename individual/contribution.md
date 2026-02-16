@@ -6,7 +6,7 @@ Throughout the project, I contributed most to the development of the presentatio
 
 I also put effort into structuring and building the slides. I wanted to make sure our presentation told a clear story, not just numbers. I focused on helping translate the technical results into business language so that someone without a predictive analytics background could still understand the value of what we built.
 
-##One decision or approach I personally advocated for
+## One decision or approach I personally advocated for
 
 One approach I personally pushed for was simplifying how we communicated our project. I realized that most people listening to our presentation would not be familiar with machine learning models or performance metrics.
 
