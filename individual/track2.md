@@ -13,3 +13,26 @@ The goal would be to reduce Cluster 1 churn from 43% to below 35% within one eva
 
 One metric we would not want to worsen is customer acquisition cost (CAC) or overall customer satisfaction.
 If the intervention feels too aggressive or too costly, it could reduce profitability or damage customer perception.
+
+## How would impact be measured?
+
+We would measure impact using an A/B test:
+
+Group A: High-risk Cluster 1 customers receiving the onboarding intervention.
+
+Group B: High-risk Cluster 1 customers receiving standard treatment.
+
+After 3–6 months, we would compare:
+
+  -Churn rates
+
+  -Retention lift
+
+  -Revenue per customer
+
+  -Customer satisfaction scores
+
+Some risks may be over-targeting, 
+where customers may feel overwhelmed by excessive communication, 
+which could increase dissatisfaction instead of reducing churn. And other risk may be 
+the cost riks, where incentives and additional support resources may increase short-term operational costs.
